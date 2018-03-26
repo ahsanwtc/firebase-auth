@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 node_modules/**/*
 .expo/*
 npm-debug.*
@@ -62,4 +61,4 @@ typings/
 # dotenv environment variables file
 .env
 
->>>>>>> 90832529e7539facb18b7a27b414ec8bf99419ac
+config.json
